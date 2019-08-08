@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dustin Schau <dustinschau@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.13.53",
+    "gatsby-theme-blog": "^1.0.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "scripts": {
+    "start": "gatsby develop"
+  }
+}
